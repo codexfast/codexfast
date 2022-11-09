@@ -25,3 +25,23 @@
 </p>
 
 ---
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
+
+```yaml
+name: Gilberto Leandro
+located_in: Santa Branca, Brazil
+current_job: Remote Work
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Desktop App Development",
+  ]
+
+currently_learning: ["React Native"]
+hobbies: ["Gaming", "Music", "Comedy"]
+```
+---  
