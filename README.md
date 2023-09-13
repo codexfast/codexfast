@@ -23,7 +23,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
  
 </p>
-
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
@@ -41,7 +40,7 @@ fields_of_interests:
     "Desktop App Development",
   ]
 
-currently_learning: ["React Native"]
-hobbies: ["Gaming", "Music", "Comedy"]
+currently_learning: ["ReactJS, React Native"]
+hobbies: ["Gaming", "Music", "Code"]
 ```
----  
+
